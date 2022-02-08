@@ -3,6 +3,7 @@
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
 
 ## Description 
+
 For this application, we were given the starter code with a fully functioning Google Books API search engine built with a RESTful API. Our task was to refactor this starter code to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end. 
 
 We were asked to complete the following steps: 
@@ -15,6 +16,8 @@ We were asked to complete the following steps:
 
 4. Deploy your application to Heroku with a MongoDB database using MongoDB Atlas. 
 
+## Deployed Application 
+
 To view the deployed application please [click here](https://ajay-book-search.herokuapp.com/)
 
 ![Application screenshot](assets/screenshot.jpg)
@@ -22,8 +25,8 @@ To view the deployed application please [click here](https://ajay-book-search.he
 ## Table of Contents 
 
 - [Installation](#installation)
-- [Back-End] (#Back-End)
-- [Front-End] (#Front-End)
+- [Back-End-Specifications](#back-end-specifications)
+- [Front-End-Specifications](#front-end-specifications)
 - [Features](#features)
 - [Contribute](#contribute)
 - [License](#license)
@@ -36,7 +39,7 @@ Then, in the root folder open the command line and enter 'npm install'.
 After this, enter 'npm run build' and finally enter 'npm run develop' to run both the front end and back end server concurrently. 
 
 
-## Back-End
+## Back End Specifications
 
 For the Back-End, following tasks were completed: 
 
@@ -103,7 +106,7 @@ For the Back-End, following tasks were completed:
 			* `user` (References the `User` type.)
 
 
-## Front-End
+## Front End Specifications
 
 For the Front-End, following tasks were completed:
 
@@ -166,4 +169,5 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 If you would like to contribute to this project please contact me via email at ajaycoolkarni@yahoo.com
 
 ## License
+
 This project is released under the [ISC LICENSE](https://img.shields.io/badge/License-ISC-blue.svg)
